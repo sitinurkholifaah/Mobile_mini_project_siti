@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a285ae43-589f-4a05-97ce-55ae0887b9c2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>siti+nur+kholifah sitinurkh%40email.com 1234567890</data>
+   <data>null null null</data>
+   <data>siti+nur+kholifah null null</data>
+   <data>null siti%40email.com null</data>
+   <data>null null 1234567890</data>
+   <data>siti abcdefgh 123456789</data>
+   <data>%40%23%24%25%5E%26* ipah%40gmail.com 123456789</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>fullname</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>email</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
